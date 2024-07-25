@@ -1,0 +1,17 @@
+D:\HADASIM\server\Corona_system_server\Corona_system_server.Data\bin\Debug\net7.0\Corona_system_server.Data.deps.json
+D:\HADASIM\server\Corona_system_server\Corona_system_server.Data\bin\Debug\net7.0\Corona_system_server.Data.runtimeconfig.json
+D:\HADASIM\server\Corona_system_server\Corona_system_server.Data\bin\Debug\net7.0\Corona_system_server.Data.dll
+D:\HADASIM\server\Corona_system_server\Corona_system_server.Data\bin\Debug\net7.0\Corona_system_server.Data.pdb
+D:\HADASIM\server\Corona_system_server\Corona_system_server.Data\bin\Debug\net7.0\Corona_system_server.Core.dll
+D:\HADASIM\server\Corona_system_server\Corona_system_server.Data\bin\Debug\net7.0\Corona_system_server.Core.pdb
+D:\HADASIM\server\Corona_system_server\Corona_system_server.Data\obj\Debug\net7.0\Corona_system_server.Data.csproj.AssemblyReference.cache
+D:\HADASIM\server\Corona_system_server\Corona_system_server.Data\obj\Debug\net7.0\Corona_system_server.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\HADASIM\server\Corona_system_server\Corona_system_server.Data\obj\Debug\net7.0\Corona_system_server.Data.AssemblyInfoInputs.cache
+D:\HADASIM\server\Corona_system_server\Corona_system_server.Data\obj\Debug\net7.0\Corona_system_server.Data.AssemblyInfo.cs
+D:\HADASIM\server\Corona_system_server\Corona_system_server.Data\obj\Debug\net7.0\Corona_system_server.Data.csproj.CoreCompileInputs.cache
+D:\HADASIM\server\Corona_system_server\Corona_system_server.Data\obj\Debug\net7.0\Corona_system_server.Data.csproj.CopyComplete
+D:\HADASIM\server\Corona_system_server\Corona_system_server.Data\obj\Debug\net7.0\Corona_system_server.Data.dll
+D:\HADASIM\server\Corona_system_server\Corona_system_server.Data\obj\Debug\net7.0\refint\Corona_system_server.Data.dll
+D:\HADASIM\server\Corona_system_server\Corona_system_server.Data\obj\Debug\net7.0\Corona_system_server.Data.pdb
+D:\HADASIM\server\Corona_system_server\Corona_system_server.Data\obj\Debug\net7.0\Corona_system_server.Data.genruntimeconfig.cache
+D:\HADASIM\server\Corona_system_server\Corona_system_server.Data\obj\Debug\net7.0\ref\Corona_system_server.Data.dll

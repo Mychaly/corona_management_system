@@ -1,0 +1,198 @@
+.invalid-input {
+  border-color: red;
+}
+
+ul {
+  list-style-type: none;
+}
+
+td[data-info="manufacturer"] {
+  color: #9adee6;
+}
+ #housNum {
+  width: 45px;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0;
+  min-width: 1000px;
+  min-width: 1200px;
+}
+
+header {
+  background-color: #007bff;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+}
+
+.section {
+  max-width: 90%;
+  margin: 20px auto;
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+button {
+  margin: 5px;
+  padding: 8px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #007bff;
+  color: white;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+/* סגנון לשדות הקלט */
+input[type="text"],
+input[type="number"],
+input[type="date"] {
+  padding:6px;
+  margin: 2px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.error-message {
+  color: red;
+  font-size: 14px;
+}
+
+.MuiAccordion-root {
+  margin: 10px 0;
+  border-radius: 5px;
+  overflow: hidden;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
+}
+
+.MuiAccordionSummary-content.Mui-expanded {
+  margin: 12px 0;
+}
+
+/*  לדיאלוג */
+.MuiDialog-paper {
+  /* padding: 20px; */
+  border-radius: 10px;
+}
+
+/*  לכפתורי הדיאלוג */
+.MuiDialogActions-root {
+  justify-content: space-between;
+}
+
+/*  לכפתורי המחיקה והעדכון בתוך האקורדיון */
+button.delete-btn,
+button.update-btn {
+  background-color: transparent;
+  border: none;
+  color: #007bff;
+  font-size: 14px;
+  cursor: pointer;
+  margin-left: 0px;
+}
+#add:hover #openG:hover button.delete-btn:hover,
+button.update-btn:hover {
+  text-decoration: underline;
+}
+
+.MuiSvgIcon-root {
+  color: #007bff;
+}
+
+.MuiTypography-root {
+  font-weight: bold;
+}
+
+.MuiAccordionDetails-root {
+  flex-direction: column;
+  padding: 10px 0;
+}
+
+table {
+  width: 80%;
+  border-collapse: collapse;
+  margin-top: 10px;
+  margin: auto;
+}
+
+table thead {
+  background-color: #f0f0f0;
+}
+
+table td,
+table th {
+  padding: 8px;
+  border: 1px solid #ddd;
+  text-align: center;
+  color: #706767;
+}
+
+table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+#add {
+  background-color: transparent;
+  border: none;
+  color: white;
+  font-size: 30px;
+  cursor: pointer;
+  margin-left: 0px;
+  background-color: #007bff;
+  border-radius: 35%;
+}
+#add :hover {
+  background-color: #0056b3;
+}
+.datesA {
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+  color: #706767;
+  margin-bottom: 10px;
+  margin: auto;
+  text-align: center;
+  padding: 7px;
+}
+img {
+  width: 70px;
+  height: 55px;
+  border-radius: 60%;
+}
+#openG {
+  background-color: transparent;
+  border: none;
+  color: white;
+  font-size: 20px;
+  cursor: pointer;
+  margin-left: 0px;
+  background-color: #007bff;
+  border-radius: 17%;
+  border: solid white 2px;
+}
+
+#vaccinated{
+  text-align: center;
+  color: rgb(4, 145, 131);
+  font-size: 33px;
+
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CkbILygbqOEi5n60+2z1GYAPFvxUYM3WI6ROv9m91pPHOYs5dHI1SnvYRjQM2QU0CucXe1kDlwvtmG2D2MzDLg==",
+  "success": true,
+  "projectFilePath": "D:\\HADASIM\\server\\Corona_system_server\\Corona_system_server.Core\\Corona_system_server.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user1\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
